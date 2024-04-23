@@ -1,4 +1,4 @@
-baseURL = 'https://wiki.gobolinux.org/'
+baseURL = 'https://nuc1eon.github.io/'
 languageCode = 'en-us'
 title = 'GoboLinux Documentation'
 theme = "hugo-theme-relearn"
